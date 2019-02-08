@@ -1,1 +1,1 @@
-web: java -jar -Dserver.port=$PORT -Dhttp.port=${PORT} snakebattle-engine.jar
+web: java $JAVA_OPTS -Dserver.port=$PORT -jar snakebattle-engine.jar
