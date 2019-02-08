@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -Dserver.port=$PORT -jar snakebattle-engine.jar
+worker: java $JAVA_OPTS -Dserver.port=$PORT -jar snakebattle-engine.jar
