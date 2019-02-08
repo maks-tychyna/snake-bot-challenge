@@ -1,1 +1,1 @@
-web: java -jar snakebattle-engine.jar
+web: java -jar -Dserver.port=$PORT snakebattle-engine.jar
