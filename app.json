@@ -1,0 +1,6 @@
+{
+  "name": "Snake",
+  "description": "This is Snake",
+  "repository": "https://github.com/maks-tychyna/snake-bot-challenge",
+  "image": "heroku/java"
+}
